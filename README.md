@@ -1,2 +1,2 @@
 # FlaskTu
-Practice Using Flask CRUD
+Practice CRUD Using Flask
